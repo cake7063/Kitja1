@@ -1,0 +1,25 @@
+
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+
+  <PropertyGroup>
+    <DestinationFolder>src</DestinationFolder>
+  </PropertyGroup>
+  
+  <ItemGroup>
+    <TxtFiles Include="**/*.cs" />
+  </ItemGroup>
+  
+  <Target Name="CopyFiles">
+    
+    <MakeDir Directories="$(DestinationFolder)" />
+
+    <Message Text ="Copying Files..." />
+
+    <Copy 
+      SourceFiles="@(TxtFiles)" 
+      DestinationFolder="$(DestinationFolder)" 
+      />
+    
+  </Target>
+  
+</Project>

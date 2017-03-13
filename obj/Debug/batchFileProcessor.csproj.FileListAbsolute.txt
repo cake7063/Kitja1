@@ -1,0 +1,12 @@
+F:\final prepare\VGP232\session9\batchfileprocessor\bin\Debug\batchFileProcessor.exe.config
+F:\final prepare\VGP232\session9\batchfileprocessor\bin\Debug\batchFileProcessor.exe
+F:\final prepare\VGP232\session9\batchfileprocessor\bin\Debug\batchFileProcessor.pdb
+F:\final prepare\VGP232\session9\batchfileprocessor\obj\Debug\batchFileProcessor.csprojResolveAssemblyReference.cache
+F:\final prepare\VGP232\session9\batchfileprocessor\obj\Debug\batchFileProcessor.exe
+F:\final prepare\VGP232\session9\batchfileprocessor\obj\Debug\batchFileProcessor.pdb
+C:\Users\Kitja\Desktop\batchfileprocessor\bin\Debug\batchFileProcessor.exe.config
+C:\Users\Kitja\Desktop\batchfileprocessor\obj\Debug\batchFileProcessor.exe
+C:\Users\Kitja\Desktop\batchfileprocessor\obj\Debug\batchFileProcessor.pdb
+C:\Users\Kitja\Desktop\batchfileprocessor\bin\Debug\batchFileProcessor.exe
+C:\Users\Kitja\Desktop\batchfileprocessor\bin\Debug\batchFileProcessor.pdb
+C:\Users\Kitja\Desktop\batchfileprocessor\obj\Debug\batchFileProcessor.csprojResolveAssemblyReference.cache
