@@ -1,0 +1,6 @@
+C:\Users\Kitja\Desktop\Kitja_366081_GameTools_Final\Kitja_366081_GameTools_Final\bin\Debug\Kitja_366081_GameTools_Final.exe.config
+C:\Users\Kitja\Desktop\Kitja_366081_GameTools_Final\Kitja_366081_GameTools_Final\bin\Debug\Kitja_366081_GameTools_Final.exe
+C:\Users\Kitja\Desktop\Kitja_366081_GameTools_Final\Kitja_366081_GameTools_Final\bin\Debug\Kitja_366081_GameTools_Final.pdb
+C:\Users\Kitja\Desktop\Kitja_366081_GameTools_Final\Kitja_366081_GameTools_Final\obj\Debug\Kitja_366081_GameTools_Final.csprojResolveAssemblyReference.cache
+C:\Users\Kitja\Desktop\Kitja_366081_GameTools_Final\Kitja_366081_GameTools_Final\obj\Debug\Kitja_366081_GameTools_Final.exe
+C:\Users\Kitja\Desktop\Kitja_366081_GameTools_Final\Kitja_366081_GameTools_Final\obj\Debug\Kitja_366081_GameTools_Final.pdb
